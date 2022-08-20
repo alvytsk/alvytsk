@@ -24,7 +24,7 @@
 ---
 ### :fire: My Github stats:
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvytsk&layout=compact&theme=solarized-dark)](https://github.com/alvytsk/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvytsk&layout=compact&theme=city_lights)](https://github.com/alvytsk/github-readme-stats)
 
 
 
