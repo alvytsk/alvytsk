@@ -2,7 +2,9 @@
 
   <div id="badges">
     <p>Hi there! 👋</p>
-    <p>I am fullstack developer from Siberia. <br>You can find more information about me in my LinkedIn profile</p> 
+    <p>I am Fullstack web developer from Siberia. <br>
+    Currently work in <a href="https://aspirity.com/">Aspirity</a>. We create powerful and beautiful dashboards and web services.
+    <br>You can find more information about me in my LinkedIn profile</p> 
     <a href="https://www.linkedin.com/in/alexey-vymyatnin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
