@@ -1,7 +1,8 @@
 <div id="header" align="center">
 
   <div id="badges">
-    <p>Hi there 👋</p>
+    <p>Hi there! 👋</p>
+    <p>I am fullstack developer from Siberia. <br>You can find more information about me in my LinkedIn profile</p> 
     <a href="https://www.linkedin.com/in/alexey-vymyatnin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -10,7 +11,7 @@
 
 ---
 
-### Languages and tools:
+### :hammer_and_wrench: Languages and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
