@@ -1,10 +1,10 @@
 <div id="header" align="center">
-
+  
   <div id="badges">
     <p>Hi there! 👋</p>
-    <p>I am a Fullstack web developer from Siberia, currently working at <a href="https://aspirity.com/">Aspirity</a><br>
-    We specialize in creating powerful and beautiful dashboards and web services.
-    <br>You can find more information about me on my LinkedIn profile</p> 
+    <p>I am a full-stack web developer based in Siberia, currently employed by <a href="https://aspirity.com/">Aspirity</a><br>
+    We specialize in creating highly functional and visually appealing dashboards and web-based services. 
+    <br>For more information about my professional background and experience, please visit my LinkedIn profile.</p> 
     <a href="https://www.linkedin.com/in/alexey-vymyatnin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
