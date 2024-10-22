@@ -2,8 +2,7 @@
   
   <div id="badges">
     <p>Hi there! 👋</p>
-    <p>I am a full-stack web developer based in Siberia, currently employed by <a href="https://aspirity.com/">Aspirity</a><br>
-    We specialize in creating highly functional and visually appealing dashboards and web-based services. 
+    <p>I am a full-stack web developer based in Siberia<br>
     <br>For more information about my professional background and experience, please visit my LinkedIn profile.</p> 
     <a href="https://www.linkedin.com/in/alexey-vymyatnin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
