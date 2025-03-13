@@ -3,10 +3,10 @@
   <div id="badges">
     <p>Hi there! 👋</p>
     <p>
-      I am a full-stack web developer based in Siberia with a strong focus on both frontend and backend development.<br><br>
-      As a <strong>frontend developer</strong>, I have extensive experience building large-scale React applications, including projects with NextJS.<br>
-      As a <strong>backend developer</strong>, I've delivered projects using NestJS, FastAPI, and Go, integrated with various databases such as PostgreSQL, MySQL, and SQLite.<br><br>
-      For more information about my professional background and experience, please visit my LinkedIn profile.
+      I am a skilled full-stack web developer based in Siberia, specializing in creating robust, scalable web applications. My expertise encompasses both frontend and backend development:<br><br>
+      <strong>Frontend:</strong> Extensive experience developing large-scale React applications, proficient with NextJS for performance-focused and SEO-optimized solutions.<br><br>
+      <strong>Backend:</strong> Proven ability in designing and implementing efficient backend systems using NestJS, FastAPI, and Go. Experienced in database integration, including PostgreSQL, MySQL, and SQLite.<br><br>
+      For further details on my professional experience and technical background, please visit my LinkedIn profile.
     </p> 
     <a href="https://www.linkedin.com/in/alexey-vymyatnin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
