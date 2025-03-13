@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   
   <div id="badges">
     <p>Hi there! 👋</p>
